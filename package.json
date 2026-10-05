@@ -1,0 +1,18 @@
+{
+  "name": "sharedcut-mcp",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "setup": "node setup.mjs setup",
+    "login": "node setup.mjs login",
+    "register": "node setup.mjs install",
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^1.0.9"
+  }
+}
