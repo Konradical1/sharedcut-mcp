@@ -4,6 +4,10 @@ Lets Claude Code or Codex edit your [SharedCut](https://sharedcut.com) projects:
 transitions, keyframes, color, captions, masks, tracking, uploads and exports. Edits show up live in
 the editor, land in History, and can be undone like your own.
 
+Color grading covers the whole Color page: wheels, log wheels, HSL curves, qualifier, gradient/circle/rectangle
+windows, RGB mixer, film effects (halation, bloom, grain, vignette) and the looks library. `help color` lists every
+control; `job color-measure` compares a shot with a reference picture and says which controls to move.
+
 ## You need
 
 - A SharedCut account on sharedcut.com, with the projects you want shared with you
